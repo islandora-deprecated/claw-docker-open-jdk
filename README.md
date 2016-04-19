@@ -1,9 +1,9 @@
 # Islandora CLAW: Open JDK Docker Image
 
-[![Docker Stars](https://img.shields.io/docker/stars/islandora-claw/open-jdk.svg)](https://hub.docker.com/r/islandora-claw/open-jdk/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/islandora-claw/open-jdk.svg)](https://hub.docker.com/r/islandora-claw/open-jdk/)
-[![Image Size](https://img.shields.io/imagelayers/image-size/islandora-claw/open-jdk/latest.svg)](https://imagelayers.io/?images=islandora-claw/open-jdk:latest)
-[![Image Layers](https://img.shields.io/imagelayers/layers/islandora-claw/open-jdk/latest.svg)](https://imagelayers.io/?images=islandora-claw/open-jdk:latest)
+[![Docker Stars](https://img.shields.io/docker/stars/islandora/claw-open-jdk.svg)](https://hub.docker.com/r/islandora/claw-open-jdk/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/islandora/claw-open-jdk.svg)](https://hub.docker.com/r/islandora/claw-open-jdk/)
+[![Image Size](https://img.shields.io/imagelayers/image-size/islandora/claw-open-jdk/latest.svg)](https://imagelayers.io/?images=islandora/claw-open-jdk:latest)
+[![Image Layers](https://img.shields.io/imagelayers/layers/islandora/claw-open-jdk/latest.svg)](https://imagelayers.io/?images=islandora/claw-open-jdk:latest)
 
 ### Introduction
 
@@ -22,7 +22,7 @@ No build arguments are provided.
 
 **Example:**
 ```bash
-docker build -t islandora-claw/open-jdk .
+docker build -t islandora/claw-open-jdk .
 ```
 
 ### Environment Variables
@@ -33,7 +33,7 @@ docker build -t islandora-claw/open-jdk .
 
 **Example (foreground, auto-remove, interactive shell):**
 ```bash
-docker run --rm -ti islandora-claw/open-jdk ash
+docker run --rm -ti islandora/claw-open-jdk ash
 ```
 
 ### Commands
