@@ -2,6 +2,8 @@
 
 [![Docker Stars](https://img.shields.io/docker/stars/islandora/claw-open-jdk.svg)](https://hub.docker.com/r/islandora/claw-open-jdk/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/islandora/claw-open-jdk.svg)](https://hub.docker.com/r/islandora/claw-open-jdk/)
+[![Contribution Guidelines](http://img.shields.io/badge/CONTRIBUTING-Guidelines-blue.svg)](./CONTRIBUTING.md)
+[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://packagist.org/packages/islandora/PDX)
 
 ## Introduction
 
